@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscarsiu&label=Profile%20views&color=0e75b6&style=flat" alt="oscarsiu" /> </p>
 
-- 🌱 I’m currently learning **MSc Robotics in University of Bristol**
+- 🌱 I’m currently studying **MSc Robotics in University of Bristol**
 
 - 👯 I’m looking to collaborate on **autonomous vehicles / IOT projects**
 
